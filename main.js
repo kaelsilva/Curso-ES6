@@ -1,10 +1,4 @@
-const usuario = {
-    nome: 'kael',
-    idade: '99',
-    empresa: 'ufrn'
-}
+const nome = 'Kael';
+const idade = '99';
 
-const {nome, ...resto} = usuario;
-
-console.log(nome);
-console.log(resto);
+console.log(`Meu nome é ${nome} e tenho ${idade} anos.`);
