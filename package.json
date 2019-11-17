@@ -2,6 +2,8 @@
   "name": "curso-es6",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/kaelsilva/Curso-ES6.git",
+  "author": "kaelsilva <kael.leak1998@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/cli": "^7.7.0",
