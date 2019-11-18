@@ -86,27 +86,14 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./funcoes.js":
-/*!********************!*\
-  !*** ./funcoes.js ***!
-  \********************/
-/*! exports provided: soma */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"soma\", function() { return soma; });\nfunction soma(a, b){\n    return a+b;\n}\n\n//# sourceURL=webpack:///./funcoes.js?");
-
-/***/ }),
-
 /***/ "./main.js":
 /*!*****************!*\
   !*** ./main.js ***!
   \*****************/
-/*! no exports provided */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports) {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _funcoes__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./funcoes */ \"./funcoes.js\");\n\n\nconsole.log(Object(_funcoes__WEBPACK_IMPORTED_MODULE_1__[\"soma\"])(1,2));\n\n//# sourceURL=webpack:///./main.js?");
+eval("throw new Error(\"Module build failed: Error: ENOENT: no such file or directory, open '/home/kael/dev/JavaScript/Curso-ES6/main.js'\");\n\n//# sourceURL=webpack:///./main.js?");
 
 /***/ })
 
