@@ -1,4 +1,3 @@
-const nome = 'Kael';
-const idade = '99';
+import {soma} from './funcoes';
 
-console.log(`Meu nome é ${nome} e tenho ${idade} anos.`);
+console.log(soma(1,2));
